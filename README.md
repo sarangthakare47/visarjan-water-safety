@@ -32,20 +32,14 @@ Streamlit → Web app interface
 -Clone this repo
 
 git clone https://github.com/yourusername/visarjan-water-safety.git
-
 cd visarjan-water-safety
 
 Install dependencies
 
 pip install -r requirements.txt
-
 Train the model (optional if model already provided)
-
 python train_visarjan_model.py
-
-
 Run the Streamlit app
-
 streamlit run app.py
 
 👩‍💻 Developed by - Sarang A Thakare
