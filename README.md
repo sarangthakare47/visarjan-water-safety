@@ -17,10 +17,14 @@ The system provides a Streamlit web app where users can:
 
 ⚙️ Tech Stack
 
-Python 🐍,
-Pandas & NumPy → Data handling,
-Scikit-learn → Machine Learning (Random Forest Classifier),
-Pickle → Save & load trained ML model,
+Python 🐍
+
+Pandas & NumPy → Data handling
+
+Scikit-learn → Machine Learning (Random Forest Classifier)
+
+Pickle → Save & load trained ML model
+
 Streamlit → Web app interface
 
 🚀 How to Run
