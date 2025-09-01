@@ -1,0 +1,12 @@
+City,Waterbody,pH,DO,BOD,Turbidity,TDS,SafeForVisarjan
+Pune,Mula-Mutha,7.2,6.1,2.8,15,450,Yes
+Nashik,Godavari,6.5,3.2,7.1,45,800,No
+Mumbai,Mithi,6.8,4.0,5.5,40,900,No
+Aurangabad,Kham,7.1,6.5,3.0,18,500,Yes
+Nagpur,Nag,7.3,6.2,2.5,12,420,Yes
+Solapur,Bhima,6.2,3.5,8.0,55,1100,No
+Sangli,Krishna,6.8,5.0,5.5,7.2,320,No
+Pune,Bhima,7.0,5.5,3.8,5.0,250,No
+Aurangabad,Godavari,7.5,6.5,3.0,4.1,200,Yes
+Delhi,Yamuna - KG,7.2,2.8,22,35,600,No
+Delhi,Yamuna - OKL,7.0,1.7,35,55,740,No
