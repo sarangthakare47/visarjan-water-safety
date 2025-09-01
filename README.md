@@ -1,13 +1,13 @@
-🌊 Visarjan Water Safety Prediction
+**🌊 Visarjan Water Safety Prediction**
 Project Overview
 
 Every year during festivals, idols are immersed (Visarjan) in rivers, lakes, and ponds across India. However, many of these waterbodies are polluted, making them unsafe for immersion and harmful to aquatic life.
 This project uses Machine Learning (Random Forest Classifier) to predict whether a waterbody is SAFE or NOT SAFE for Visarjan based on water quality parameters like:
 
-pH
-Dissolved Oxygen (DO)
-Biological Oxygen Demand (BOD)
-Turbidity
+pH,
+Dissolved Oxygen (DO),
+Biological Oxygen Demand (BOD),
+Turbidity,
 Total Dissolved Solids (TDS)
 
 The system provides a Streamlit web app where users can:
